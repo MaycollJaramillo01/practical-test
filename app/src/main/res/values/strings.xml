@@ -23,5 +23,28 @@
 
 
     <!-- AGREGAR SUS STRING DE AQUI EN ADELANTE -->
-
+    <string name="title_task_management">Gestión de Tareas</string>
+    <string name="hint_task_id">Identificador de la tarea</string>
+    <string name="hint_task_title">Título de la tarea</string>
+    <string name="hint_task_description">Descripción de la tarea</string>
+    <string name="hint_task_assigned_to">Usuario asignado</string>
+    <string name="hint_task_due_date">Fecha de entrega</string>
+    <string name="label_status">Estado</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_clear">Limpiar</string>
+    <string name="label_tasks_empty">No hay tareas registradas.</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_in_progress">En progreso</string>
+    <string name="status_completed">Completada</string>
+    <string name="msg_task_saved">Tarea guardada correctamente.</string>
+    <string name="msg_task_updated">Tarea actualizada correctamente.</string>
+    <string name="msg_task_deleted">Tarea eliminada correctamente.</string>
+    <string name="msg_confirm_delete">¿Desea eliminar la tarea seleccionada?</string>
+    <string name="msg_select_task">Seleccione una tarea de la lista.</string>
+    <string name="error_empty_fields">Complete todos los campos obligatorios.</string>
+    <string name="error_invalid_date">La fecha no es válida.</string>
+    <string name="item_task_assigned_to_format">Asignada a: %1$s</string>
+    <string name="item_task_due_date_format">Entrega: %1$s</string>
 </resources>
