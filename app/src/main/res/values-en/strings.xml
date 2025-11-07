@@ -24,4 +24,28 @@
 
 
     <!-- AGREGAR SUS STRING DE AQUI EN ADELANTE -->
+    <string name="title_task_management">Task Management</string>
+    <string name="hint_task_id">Task identifier</string>
+    <string name="hint_task_title">Task title</string>
+    <string name="hint_task_description">Task description</string>
+    <string name="hint_task_assigned_to">Assigned user</string>
+    <string name="hint_task_due_date">Due date</string>
+    <string name="label_status">Status</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_clear">Clear</string>
+    <string name="label_tasks_empty">No tasks registered.</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_in_progress">In progress</string>
+    <string name="status_completed">Completed</string>
+    <string name="msg_task_saved">Task saved successfully.</string>
+    <string name="msg_task_updated">Task updated successfully.</string>
+    <string name="msg_task_deleted">Task deleted successfully.</string>
+    <string name="msg_confirm_delete">Do you want to delete the selected task?</string>
+    <string name="msg_select_task">Please select a task from the list.</string>
+    <string name="error_empty_fields">Complete all required fields.</string>
+    <string name="error_invalid_date">The date is not valid.</string>
+    <string name="item_task_assigned_to_format">Assigned to: %1$s</string>
+    <string name="item_task_due_date_format">Due: %1$s</string>
 </resources>
