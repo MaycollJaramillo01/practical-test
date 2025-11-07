@@ -4,7 +4,7 @@ import android.app.AlertDialog
 import android.content.Context
 import android.content.DialogInterface
 import android.content.Intent
-import cr.ac.utn.census.R
+import cr.ac.utn.practicaltest.R
 import java.text.SimpleDateFormat
 import java.time.LocalDate
 import java.time.LocalDateTime
