@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PracticalTest</string>
+
+    <!-- STRING POR DEFECTO- NO MODIFICAR NI ELIMINAR -->
+    <string name="TextSave_menu">Guardar</string>
+    <string name="TextDelete_menu">Eliminar</string>
+    <string name="TextCancel_mnu">Cancelar</string>
+    <string name="MsgDuplicateDate">No se permiten datos duplicados</string>
+    <string name="MsgSaveSuccess">La información se guardó con éxito</string>
+    <string name="MsgDeleteSuccess">La información se eliminó con éxito.</string>
+    <string name="TextYes">Si</string>
+    <string name="TextNo">No</string>
+    <string name="TextTitleDialogQuestion">Pregunta...</string>
+    <string name="TextSaveActionQuestion">Desea guardar la información?</string>
+    <string name="TextDeleteActionQuestion">Desea eliminar la información?</string>
+    <string name="ErrorMsgAdd">Error al agregar la información.</string>
+    <string name="ErrorMsgUpdate">Error al actualizar la información.</string>
+    <string name="ErrorMsgRemove">Error al eliminar la información.</string>
+    <string name="ErrorMsgGetAll">Error al obtener la lista de datos.</string>
+    <string name="ErrorMsgGetById">Error al obtener un dato en específico.</string>
+    <string name="MsgDataNoFound">El dato no fue encontrado.</string>
+    <!-- STRING POR DEFECTO- NO MODIFICAR NI ELIMINAR -->
+
+
+    <!-- AGREGAR SUS STRING DE AQUI EN ADELANTE -->
+
+</resources>
