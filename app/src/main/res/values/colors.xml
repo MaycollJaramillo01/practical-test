@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="task_status_pending">#FFF59D</color>
+    <color name="task_status_in_progress">#90CAF9</color>
+    <color name="task_status_completed">#A5D6A7</color>
 </resources>
